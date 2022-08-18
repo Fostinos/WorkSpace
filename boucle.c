@@ -34,7 +34,7 @@ int main(void)
 			break;
 		}
 	}
-	
+	 
 
 	printf("\nTable de de mutiplication de 6 :\n");
 	for(int compteur = 0; compteur <= 9; compteur++)
