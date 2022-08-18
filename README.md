@@ -1,3 +1,3 @@
 # WorkSpace
 
-Apprentissage de langage C 
+Apprentissage du langage C 
