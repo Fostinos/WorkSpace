@@ -1,18 +1,16 @@
 #include<stdio.h>
+#include "puissance.h"
 
-
-
-int auCarre(int param); // Declaration de prototype
 
 int main()
 {
-	return 0;
-}
+	int n = 5;
 
-int auCarre(int param)
-{
-	// Implementation
-	int carre;
-	carre = param * param;
-	return carre;
+	int p;
+
+	p = auCarre(n);
+
+	printf("%d au carre = %d\n", n, p);
+
+	return 0;
 }
