@@ -12,7 +12,7 @@ int main()
 	scanf("%s", &name);
 
 	printf("Bonjour %s\n", name);
-	printf("Nomre de caracteres : %d\n", strlen(name));
+	printf("Nombre de caracteres : %d\n", strlen(name));
 
 
 	return 0;
